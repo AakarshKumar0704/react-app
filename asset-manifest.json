@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/AakarshKumar0704/deni.git/static/css/main.f855e6bc.css",
+    "main.js": "/AakarshKumar0704/deni.git/static/js/main.d550b976.js",
+    "index.html": "/AakarshKumar0704/deni.git/index.html",
+    "main.f855e6bc.css.map": "/AakarshKumar0704/deni.git/static/css/main.f855e6bc.css.map",
+    "main.d550b976.js.map": "/AakarshKumar0704/deni.git/static/js/main.d550b976.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.d550b976.js"
+  ]
+}
